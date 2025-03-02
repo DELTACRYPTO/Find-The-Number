@@ -30,6 +30,8 @@ The administrator can restart the game with a new secret number 🔄
 🔑 Contract Address:
 0xb94ca9DB29631AC698ab2c9beb30afbEA7Fc1a42
 
+WE ARE BASED#
+
 
 
 
