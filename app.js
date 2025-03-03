@@ -1,3 +1,4 @@
+
 const web3 = new Web3(window.ethereum);
 let contract;
 let userAccount;
